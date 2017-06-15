@@ -1,0 +1,22 @@
+.wrapper{
+  /*background: orange;*/
+  width: 1000px;
+  height: 100%;
+  overflow: scroll;
+}
+p{
+  text-align: center;
+  width: 300px;
+  height : 300px;
+  padding: 10px;
+  border: solid 3px black;
+  display: block;
+  vertical-align: top;
+}
+div{
+  display: inline-block;
+  vertical-align: top;
+}
+a{
+  margin: 0 auto;
+}
